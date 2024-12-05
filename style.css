@@ -2,10 +2,21 @@
     background-color: black;
     padding: 40px;
 }
-
-
-
-
+.slayd2{
+    margin-top: 200px;
+}
+.p2{
+    margin-left: 200px;
+}
+.img1{
+    width: 700px;
+    height: 799px;
+}
+.slayd2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 
 
